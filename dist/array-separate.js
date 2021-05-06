@@ -1,0 +1,13 @@
+"use strict";
+var separate = ["conversely", "take in", "take out", "capability", "spread"];
+var conversely = separate[0], takeIn = separate[1], takeOut = separate[2], capability = separate[3], spread = separate[4];
+var separate1 = separate.slice(0);
+var conversely1 = separate[0], separate2 = separate.slice(1);
+console.log(conversely);
+console.log(takeIn);
+console.log(takeOut);
+console.log(spread);
+console.log(capability);
+console.log(separate1);
+console.log(conversely1);
+console.log(separate2);
